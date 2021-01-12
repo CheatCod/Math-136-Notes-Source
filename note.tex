@@ -1,0 +1,109 @@
+\pdfminorversion=4
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{tcolorbox}
+\usepackage{bookmark}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+
+\title{Math 136 Note}
+\author{Peter Jiang}
+
+\begin{document}
+\maketitle
+
+\newpage
+
+\section{Vectors in $\mathbb{R}^n$ }
+
+\textbf{Definition:} Vector
+
+\begin{tcolorbox}
+\emph{A vector is an object that has both magnitude and direction.}
+\end{tcolorbox}
+
+\textbf{Representation I:} Geometrically
+
+
+Vectors in $\mathbb{R}^2$, $\mathbb{R}^3$ and even in $\mathbb{R}^n$
+can we visualized as directed line segments.
+
+Vectors can be move around in $\mathbb{R}^n$ space as long as their magnitude
+and direction is not changed, that is, the vectors are not localized
+Points and vectors are not the same.
+
+\medskip
+
+\textbf{Representation II:} Algebraically
+Vectors can be expressed as columns of numbers. These columns are often called \emph{n-\textbf{tuples}}
+
+\[
+    \vec{w} = 
+    \begin{pmatrix} 
+        2 \\
+        3
+    \end{pmatrix} \in \mathbb{R} ^ 2,
+    \vec{v} = 
+    \begin{pmatrix} 
+        -3 \\
+        1 \\
+        -5
+    \end{pmatrix} \in \mathbb{R} ^3,
+    \vec{x} = 
+    \begin{pmatrix} 
+        x_1 \\
+        \vdots \\
+        x_n
+    \end{pmatrix} \in \mathbb{R} ^ n,
+\]
+
+\medskip
+
+\textbf{Notation:}
+\[
+    \vec{v} = \begin{pmatrix}
+        1 \\
+        2 \\
+        3 \\
+        4 \\
+        5 \\
+
+    \end{pmatrix} = (1, 2, 3, 4, 5)^T
+\]
+where "T" is short for transpose and must be included
+
+\medskip
+
+\textbf{Relationship between a point and a vector:}
+
+Let $\vec{p}$ be a vector in $\mathbb{R} ^ n$ which then could be thought of as 
+a discrete line segment per \textbf{Representation I}. Let \emph{P} be the terminal point of
+$\vec{p}$, thus $\vec{p}$ can be written as 
+
+\[
+  \vec{p} = \begin{pmatrix}
+      a_1 \\
+      a_2 \\
+      \vdots \\
+      a_n
+  \end{pmatrix}  
+\]
+then the point P has the coordinates $(a_1, a_2, ... a_n)$.
+
+The vector $\vec{v}$ from the origin to p has the same set of number as P. 
+It is P's positional vector
+
+\medskip
+
+\textbf{Vector Equality: }
+
+Let $\vec{v}$ = $(v_1, v_2...v_n)^n$ and $\vec{w}$ = $(w_1, w_2...w_n)^n$
+
+$\vec{v}$ = $\vec{w}$ if
+
+1. Same mag + dir
+
+2. $\forall$ i = 1, 2 ... n, Vi = Wi
+
+\end{document}
