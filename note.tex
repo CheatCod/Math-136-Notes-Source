@@ -113,4 +113,65 @@ $\vec{v}$ = $\vec{w}$ if
 Let $\vec{v}$ = $(v_1, v_2...v_n)^T$ and $\vec{w}$ = $(w_1, w_2...w_n)^T$, 
 
 $\vec{z} = \vec{v} + \vec{w} = (z_1+w_1, z_2+w_2...z_n+w_n)^T$
+
+\medskip
+
+\textbf{Vector in $\mathbb{C}^n$ :}
+
+\section{Dot Product}
+Function that takes two vector and outputs a \emph{scalar}
+
+\medskip
+
+\textbf{Length:}
+
+Recall that the length, or a \emph{norm} of vector 
+$\vec{v} = (a, b)^T $ in $\mathbb{R}^2 $ is 
+\[
+    ||\vec{v}|| = \sqrt{a^2 + b^2}    
+\]
+
+Note that this is equivalent to the dot product of $\vec{v}$ to itself, thus
+
+\[
+    ||\vec{v}|| =\sqrt{\vec{v} \cdot \vec{v}}  
+\]
+
+Therefore the square of the length of the vector is the dot product itself
+(\emph{useful fact})
+\[
+    ||\vec{v}||^2 =\vec{v} \cdot \vec{v}
+\]
+
+This geometric intuition in $\mathbb{R}^2 $ often extends to higher dimension
+
+\medskip
+
+\textbf{Unit Vector:}
+
+A vector $\vec{v} \in \mathbb{R}^n $ is a unit vector means that $||w|| = 1$ 
+
+\medskip
+
+\textbf{Normalization:}
+
+When $\vec{v} \in \mathbb{R}^n $ is a non-zero vector,
+we can product a unit vector in  the direct of $\vec{v}$,
+which we denote by \textbf{$\hat{v}$}, by scaling it by $\frac{1}{||\vec{v}||}$ 
+
+\medskip
+A vector $\vec{w}$ is a scalar multiple of $\vec{v}$ if and only if 
+it is a scalar multiple of $\hat{v}$
+
+\medskip
+\textbf{Orthogonality(Perpendicularity):}
+Two vector $\vec{v} $ and $\vec{w} \in \mathbb{R} $ are \emph{orthogonal} means
+$\vec{v} \cdot \vec{w} = 0$
+
+* 0 is orthogonal to everything
+
+* if $\vec{v} $ and $\vec{w} \in \mathbb{R}^2$ or $\mathbb{R}^3$
+and both non-zero, then orthogonal and perpendicular coincides
+
 \end{document}
+

@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1610435091 "d:/Onedrive/OneDrive - University of Waterloo/Math 136/Latex Note/note.tex" "d:/Onedrive/OneDrive - University of Waterloo/Math 136/Latex Note/note.pdf" "note" 1610435093
-  "d:/Onedrive/OneDrive - University of Waterloo/Math 136/Latex Note/note.aux" 1610435093 928 cabc247357ecd77ffa8dd4fd6b2855c6 ""
-  "d:/Onedrive/OneDrive - University of Waterloo/Math 136/Latex Note/note.tex" 1610435091 2590 ce59e93bff4d2547abab3c24e72c013a ""
+["pdflatex"] 1610678623 "d:/Onedrive/OneDrive - University of Waterloo/Math 136/Latex Note/note.tex" "d:/Onedrive/OneDrive - University of Waterloo/Math 136/Latex Note/note.pdf" "note" 1610678624
+  "d:/Onedrive/OneDrive - University of Waterloo/Math 136/Latex Note/note.aux" 1610678624 1117 a33ec1e64771cee1e1e8309f4d43ea13 ""
+  "d:/Onedrive/OneDrive - University of Waterloo/Math 136/Latex Note/note.tex" 1610678622 4089 8e50c8bda0f735dda6978f86c6338a11 ""
   "g:/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1609459216 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "g:/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1609457820 1004 54797486969f23fa377b128694d548df ""
   "g:/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1609457820 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -37,6 +37,7 @@
   "g:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1609457820 32362 bc3f3eec7ab7d65fe700963d4017d32c ""
   "g:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1609457820 32762 7fee39e011c23b3589931effd97b9702 ""
   "g:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1609457820 32569 5e5ddc8df908dea60932f3c484a54c0d ""
+  "g:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb" 1609457820 32716 08e384dc442464e7285e891af9f45947 ""
   "g:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb" 1609457820 37944 359e864bd06cde3b1cf57bb20757fb06 ""
   "g:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb" 1609457820 34694 870c211f62cb72718a00e353f14f254d ""
   "g:/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1609460318 71627 94eb9990bed73c364d7f53f960cc8c5b ""
@@ -156,11 +157,11 @@
   "g:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1609462122 5116642 ba522f9bbd5a1d92c81d4a5d2c5cf108 ""
   "g:/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt" 1609462238 2553243 ef560916f72a7b92beb29aa0dd55e9ed ""
   "g:/texlive/2020/texmf.cnf" 1609462046 713 e69b156964470283e0530f5060668171 ""
-  "note.aux" 1610435093 928 cabc247357ecd77ffa8dd4fd6b2855c6 "pdflatex"
-  "note.tex" 1610435091 2590 ce59e93bff4d2547abab3c24e72c013a ""
+  "note.aux" 1610678624 1117 a33ec1e64771cee1e1e8309f4d43ea13 "pdflatex"
+  "note.tex" 1610678622 4089 8e50c8bda0f735dda6978f86c6338a11 ""
   (generated)
-  "d:/Onedrive/OneDrive - University of Waterloo/Math 136/Latex Note/note.pdf"
   "note.aux"
-  "note.log"
   "note.pdf"
+  "note.log"
   "d:/Onedrive/OneDrive - University of Waterloo/Math 136/Latex Note/note.log"
+  "d:/Onedrive/OneDrive - University of Waterloo/Math 136/Latex Note/note.pdf"
